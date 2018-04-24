@@ -1,0 +1,15 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\4.1(1)\bin\Debug\4.1(1).exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\4.1(1)\bin\Debug\4.1(1).pdb
+C:\Users\Администратор\AppData\Local\Temporary Projects\4.1(1)\obj\x86\Debug\4.1(1).exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\4.1(1)\obj\x86\Debug\4.1(1).pdb
+D:\University(NUWM)\3 Kyrs(2017-2018)\2 semestr\Основи побудови трансляторів та теорія компіляції\lab\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).exe
+D:\University(NUWM)\3 Kyrs(2017-2018)\2 semestr\Основи побудови трансляторів та теорія компіляції\lab\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).pdb
+D:\University(NUWM)\3 Kyrs(2017-2018)\2 semestr\Основи побудови трансляторів та теорія компіляції\lab\4\4.1(1)\4.1(1)\bin\Debug\4.1(1).exe
+D:\University(NUWM)\3 Kyrs(2017-2018)\2 semestr\Основи побудови трансляторів та теорія компіляції\lab\4\4.1(1)\4.1(1)\bin\Debug\4.1(1).pdb
+D:\University(NUWM)\3 Kyrs(2017-2018)\2 semestr\Основи побудови трансляторів та теорія компіляції\lab\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).csprojResolveAssemblyReference.cache
+D:\my\Andrew\4\4.1(1)\4.1(1)\bin\Debug\4.1(1).exe
+D:\my\Andrew\4\4.1(1)\4.1(1)\bin\Debug\4.1(1).pdb
+D:\my\Andrew\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).csprojResolveAssemblyReference.cache
+D:\my\Andrew\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).csproj.CoreCompileInputs.cache
+D:\my\Andrew\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).exe
+D:\my\Andrew\4\4.1(1)\4.1(1)\obj\x86\Debug\4.1(1).pdb

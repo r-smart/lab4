@@ -2,4 +2,4 @@
 laboratorna4
 ok
 ok
-ok
+assa
